@@ -1,0 +1,10 @@
+name: bipyt_semestral
+channels:
+- conda-forge
+dependencies:
+- python>=3.9
+- numpy
+- pillow
+- pytest
+- pylint
+- contextlib2
